@@ -141,7 +141,7 @@ jobs:
               "max_retries": 2
             },
             {
-              "task_key": "Ingest circuits data",
+              "task_key": "Ingest_circuits_data",
               "description": "Ejecuta notebook ntbk_2 con parámetros",
               "notebook_task": {
                 "notebook_path": "/proyecto_smartdata/Ingest_circuits_data",
@@ -162,7 +162,7 @@ jobs:
               ]
             },
             {
-              "task_key": "Ingest racing data",
+              "task_key": "Ingest_racing_data",
               "description": "Ejecuta notebook ntbk_2 con parámetros",
               "notebook_task": {
                 "notebook_path": "/proyecto_smartdata/Ingest_racing_data",
